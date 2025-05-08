@@ -1,7 +1,3 @@
-// To test out the code stay in root directory
-// First type command: npm i
-// Then type command: npm run dev
-
 function formatString(input: string, toUpper?: boolean): string {
     const typeofToUpper = typeof toUpper;
     let output: string = "";
